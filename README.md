@@ -1,10 +1,10 @@
 # Siena Rivera: Personal Project: Mental Health and Typology
- Mental Health disorders and their correlation/causation to Enneagram and MBTI Types.
+ Mental Health disorders and their correlation to Enneagram and MBTI Types by Country.
 
 ## Overview of this Research Project:
  
 ### Research Question
-When it comes to MBTI/Enneagram, what is the possible connection between Mental Disorders and the 16 MBTI and 9 Enneagram types?
+When it comes to MBTI/Enneagram, what is the possible connection between Mental Disorders and the 16 MBTI and 9 Enneagram types? Link the two via Country analysis.
 
 ### Hypothesis
 *Our hypothesis is that Mental Health and Typology have some slight connection and causation. By that we ask if there is a correlation between Mental Health disorders and Typology types such as the Enneagram and MBTI. We hypothesize that there is a slight causation from different Enneagram types and different correspponding Mental Health disorders. We acknowledge that there may be some confounding variable such as Socioeconomic Status, Education, and Physical Health Status. There is also the reality that there is no strong connection between Psuedosciences and a lack of knowledge and evidentiary support.*
