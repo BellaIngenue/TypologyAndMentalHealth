@@ -1,0 +1,180 @@
+"country","rate2019both","rate2019male","rate2019female"
+"Lesotho",72.4,116,30.1
+"Guyana",40.3,63,17.4
+"Eswatini",29.4,55.1,4.7
+"South Korea",28.6,40.2,16.9
+"Kiribati",28.3,48.6,8.7
+"Micronesia",28.2,43.2,12.7
+"Lithuania",26.1,45.4,9.6
+"Suriname",25.4,38.8,11.8
+"Russia",25.1,43.6,9.1
+"South Africa",23.5,37.6,9.8
+"Ukraine",21.6,39.2,6.5
+"Belarus",21.2,36.7,7.7
+"Uruguay",21.2,34.5,8.9
+"Montenegro",21,31.7,10.4
+"Latvia",20.1,35.5,7
+"Slovenia",19.8,31.4,8.3
+"Belgium",18.3,24.9,11.8
+"Vanuatu",18,28.1,7.6
+"Mongolia",17.9,30.7,5.4
+"Kazakhstan",17.6,29,6.8
+"Hungary",16.6,25.9,8.3
+"Croatia",16.4,25.3,8.1
+"United States",16.1,25,7.5
+"Botswana",16.1,26.3,6.4
+"Japan",15.3,21.8,9.2
+"Finland",15.3,23.2,7.6
+"Estonia",14.9,24.3,6.5
+"Sweden",14.7,19.9,9.5
+"Moldova",14.7,26.1,4.1
+"Solomon Islands",14.7,27,1.9
+"Austria",14.6,22.8,6.7
+"Cuba",14.5,23,6
+"Switzerland",14.5,20.2,9
+"Zimbabwe",14.1,20,8.8
+"Sri Lanka",14,22.3,6.2
+"France",13.8,20.4,7.6
+"Mozambique",13.6,22,5.7
+"India",12.7,14.1,11.1
+"Samoa",12.6,18,6.7
+"Australia",12.5,18.6,6.4
+"Germany",12.3,18.6,6.2
+"Central African Republic",12.3,19.6,5.2
+"Slovakia",12.1,21.2,3.4
+"Iceland",11.9,19.8,3.9
+"Canada",11.8,17.6,6.1
+"Netherlands",11.8,15.5,8.3
+"Norway",11.8,15.8,7.7
+"Portugal",11.5,17.9,5.7
+"Serbia",11.4,16.6,6.3
+"Poland",11.3,20.1,3.1
+"Luxembourg",11.3,15.3,7.1
+"Singapore",11.2,15,7.1
+"New Zealand",11,16.5,5.8
+"Eritrea",10.9,16.6,5.2
+"Bosnia and Herzegovina",10.9,17.6,4.5
+"Denmark",10.7,14.9,6.5
+"Romania",9.7,16.5,3.3
+"Bulgaria",9.7,15.3,4.4
+"Namibia",9.7,16.7,3.2
+"Haiti",9.6,11.8,7.6
+"Ireland",9.6,15.4,3.9
+"Djibouti",9.6,12.6,6.4
+"Mauritius",9.5,16.3,2.8
+"North Korea",9.4,11.2,7.6
+"North Macedonia",9.4,13.9,4.8
+"Georgia",9.2,16,3
+"Nepal",9,16.4,2.7
+"Cameroon",9,13.6,4.4
+"Chile",9,14.9,3.2
+"Fiji",9,12.2,5.7
+"Pakistan",8.9,13.3,4.3
+"Ivory Coast",8.9,14.9,2.8
+"Bahrain",8.9,12.5,2.4
+"Thailand",8.8,15,2.9
+"Togo",8.8,13.8,3.9
+"Trinidad and Tobago",8.7,13.9,3.6
+"Argentina",8.4,13.7,3.3
+"Gabon",8.4,14.2,2.4
+"China",8.1,9.8,6.2
+"Costa Rica",8.1,14.1,2
+"Seychelles",8.1,14.4,1.4
+"Uzbekistan",8,11.3,4.8
+"United Kingdom",7.9,11.8,4
+"Somalia",7.9,12,3.8
+"Equatorial Guinea",7.9,9.4,6
+"Saint Lucia",7.9,14.3,1.7
+"Benin",7.8,11.8,3.8
+"Spain",7.7,11.4,4.2
+"Ecuador",7.6,11.6,3.6
+"Vietnam",7.5,10.4,4.7
+"Burkina Faso",7.5,11.3,3.7
+"Kyrgyzstan",7.4,11.7,3.2
+"Zambia",7.3,12,2.7
+"Morocco",7.2,9.7,4.7
+"Belize",7.1,12.5,1.7
+"Guinea",7,9.2,4.9
+"Guinea-Bissau",7,10.2,3.9
+"Brazil",6.9,10.9,3
+"DR Congo",6.7,10.6,2.8
+"Italy",6.7,10.1,3.5
+"Sierra Leone",6.7,8.3,5.1
+"Ghana",6.6,11.8,1.2
+"Chad",6.4,9.6,3.3
+"United Arab Emirates",6.4,8,3
+"Burundi",6.2,9.2,3.4
+"Bolivia",6.2,8.4,4.1
+"Kenya",6.1,9.1,3.2
+"Angola",6.1,10,2.3
+"El Salvador",6.1,10.5,2.1
+"Malta",6.1,9.8,2.3
+"Saudi Arabia",6,8.9,2
+"Senegal",6,9.2,3
+"Paraguay",6,8.7,3.2
+"Guatemala",5.9,9.3,2.6
+"Yemen",5.8,7,4.6
+"Qatar",5.8,7.2,1.7
+"Malaysia",5.7,8.9,2.3
+"Turkmenistan",5.7,8.8,2.7
+"Rwanda",5.6,8.2,3
+"Madagascar",5.5,7.6,3.4
+"Ethiopia",5.4,7.7,3.1
+"Malawi",5.4,9.2,1.7
+"Laos",5.4,7.6,3.2
+"Comoros",5.4,7,3.8
+"Mexico",5.3,8.5,2.2
+"Niger",5.3,7.2,3.3
+"Israel",5.3,8.4,2.3
+"Iran",5.2,7.7,2.8
+"Greece",5.1,8.4,1.9
+"Cambodia",4.9,7,2.8
+"Dominican Republic",4.9,8,1.8
+"Oman",4.9,6.8,1
+"Gambia",4.8,6.6,3
+"Uganda",4.6,7.6,1.7
+"Bhutan",4.6,6.3,2.7
+"Libya",4.5,6,2.9
+"Liberia",4.5,5.6,3.3
+"Nicaragua",4.4,6.9,1.9
+"Tanzania",4.3,6.6,2
+"Tajikistan",4.3,5.7,2.8
+"Albania",4.3,5.9,2.7
+"Afghanistan",4.1,4.6,3.6
+"Mali",4.1,5.3,2.9
+"Azerbaijan",4.1,6.6,1.6
+"Colombia",3.9,6.1,1.8
+"South Sudan",3.9,5.7,2
+"Sudan",3.8,4.9,2.8
+"Tonga",3.8,5,2.6
+"Bangladesh",3.7,5.7,1.7
+"Timor-Leste",3.7,5.3,2
+"Iraq",3.6,5.2,2
+"Cyprus",3.6,6,1.3
+"Nigeria",3.5,5,1.9
+"Bahamas",3.5,5.9,1.3
+"Tunisia",3.3,4.7,1.9
+"Armenia",3.3,5.6,1.3
+"Mauritania",3.1,4,2.2
+"Egypt",3,4,2
+"Papua New Guinea",3,4.3,1.6
+"Myanmar",2.9,4.9,1.1
+"Panama",2.9,4.7,1
+"Kuwait",2.9,4.3,0.7
+"Peru",2.8,4.2,1.4
+"Lebanon",2.8,3.8,1.7
+"Maldives",2.7,3.9,0.8
+"Brunei",2.7,4.4,0.8
+"Algeria",2.5,3.1,1.8
+"Indonesia",2.4,3.7,1.1
+"Turkey",2.4,3.6,1.2
+"Jamaica",2.4,3.7,1.1
+"Philippines",2.2,3.1,1.2
+"Venezuela",2.1,3.5,0.7
+"Honduras",2.1,3.3,0.8
+"Jordan",1.6,2.5,0.7
+"Sao Tome and Principe",1.5,2.2,0.8
+"Saint Vincent and the Grenadines",1,1.3,0.6
+"Grenada",0.7,0.6,0.7
+"Barbados",0.6,0.9,0.3
+"Antigua and Barbuda",0.4,0,0.8
