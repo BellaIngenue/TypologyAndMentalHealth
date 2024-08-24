@@ -1,15 +1,17 @@
-# Siena Rivera: Personal Project: Mental Health and Typology
+# Mental Health and Typology
  Mental Health disorders and their correlation to Enneagram and MBTI Types by Country.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 
-## Overview of this Research Project:
+## Documentation
+### Overview of this Research Project
  
-### Research Question
+**Research Question**
 When it comes to Typology and the limited research associated, what is the possible connection between Mental Disorders and the 16 MBTI types? Link the two via Country analysis.
 
-### Hypothesis
+**Hypothesis**
 *Our hypothesis is that Mental Health and Typology have some slight connection and causation. By that we ask if there is a correlation between Mental Health disorders and Typology types such as the Enneagram and MBTI. We acknowledge that there may be some confounding variable such as Socioeconomic Status, Education, and Physical Health Status. There is also the reality that there is no strong connection between Psuedosciences and a lack of knowledge and evidentiary support.*
 
-## Ethics and Privacy
+### Ethics and Privacy
 **Do we have permisssion to use this data?**
 As all of the data we have collected is open to the public for fair use, we have permission to use this data and for this purpose. All of our datasets for our variables are from Kaggle, Figshare, and Google Data.
 
@@ -21,3 +23,12 @@ There is a high probability that there would be some significant biases. Due to 
 
 **What will we be doing with this data?**
 We do not intend to ever use this project for monetary use, this is strictly for educational purposes only.
+
+## Feedback and Contact Section
+
+If you have any feedback, questions, comments, or concerns, please reach out to me at sienasrivera@gmail.com
+
+
+## Screenshots of Data Visualizations
+
+![App Screenshot]("")
