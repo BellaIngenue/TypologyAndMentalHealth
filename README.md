@@ -31,4 +31,5 @@ If you have any feedback, questions, comments, or concerns, please reach out to 
 
 ## Screenshots of Data Visualizations
 
-![App Screenshot]("")
+![Schizophrenia (%) Screenshot]("Documents/GitHub/PersonalProject/TypologyAndMentalHealth/images/schizophrenia_map.png")
+![ENFP Count Screenshot]("Documents/GitHub/PersonalProject/TypologyAndMentalHealth/images/enfp_map.png")
